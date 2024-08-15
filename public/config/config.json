@@ -1,0 +1,16 @@
+{
+    "DataBase": {
+        "database_name": "anzabcoi_db",
+        "database_username": "anzabcoi_rza2107",
+        "database_password": "asadi1386"
+    },
+    "URL": "https://anzabcoin.s473.site",
+    "Account": {
+        "api_id": 21453836,
+        "api_hash": "8ddd1a5210ac3e2facf2e99035bcfb77",
+        "token": "6535126499:AAGspv4Hf8U35nGYg-R1o5OYNyUQeGed44g",
+        "admin_username" : "amirrzaasadi",
+        "chanell_link": "anzabcoin",
+        "bot_link": "anzabcoin_bot"
+    }
+}
